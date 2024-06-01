@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fatememirzakhni,i'm 19,From IRAN,Tehran
+- 👋 Hi, I’m @Fatememirzakhni/ Fatemeh Mirzakhani / i'm 19,From IRAN,Tehran
 - 👀 I’m interested in .Net
 - 💞️ I’m looking to collaborate on .Net
 - 🌱 I'm learning new things for the rest of my life
